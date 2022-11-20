@@ -20,3 +20,22 @@
     font-size: 1rem;
   }
 }
+
+.link {
+  display: inline-block;
+  color: var(--cor-p1);
+  font: 600 1.5rem/1.5 "Poppins", sans-serif;
+  text-transform: uppercase;
+}
+
+.link::after {
+  content: "";
+  display: block;
+  height: 4px;
+  width: 100%;
+  background: currentColor;
+}
+
+.link:hover {
+  color: var(--cor-p3);
+}
