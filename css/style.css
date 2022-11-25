@@ -25,3 +25,6 @@
 /* Biciletas */
 @import './bicicletas/bicicletas-lista.css';
 @import './bicicletas/bicicletas.css';
+
+/* Biciletas */
+@import './bicicleta/bicicleta.css';
