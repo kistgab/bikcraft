@@ -27,6 +27,9 @@
 /* Termos */
 @import './termos/termos.css';
 
+/* Orcamento */
+@import './orcamento/orcamento.css';
+
 /* Biciletas */
 @import './bicicletas/bicicletas-lista.css';
 @import './bicicletas/bicicletas.css';
