@@ -15,7 +15,7 @@ Projeto final desenvolvido durante as aulas do curso de HTML e CSS para Iniciant
  - Pseudo classes
  - Entre outros...
 ## 🛠 Habilidades utilizadas
-HTML, CSS, Javascript
+HTML, CSS
 
 ## Link para acessar o site
 
