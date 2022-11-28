@@ -1,5 +1,5 @@
 #contato {
-  background: linear-gradient(var(--cor-11) 600px,var(--cor-1) 0px);
+  background: linear-gradient(var(--cor-11) 600px, var(--cor-1) 0px);
 }
 
 .contato {
@@ -8,19 +8,19 @@
 }
 
 .contato-dados,
-.contato-formulario{
+.contato-formulario {
   padding: 60px;
-  box-shadow: 0 1px 2px rgba(0,0, 0, .1);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
 }
 
 .contato-dados {
   border-radius: 5px 0 0 5px;
-  background-color: var(--cor-12);
+  background: var(--cor-12) url("../../img/dec/bottom-left.svg") no-repeat bottom 20px left 20px;
 }
 
 .contato-formulario {
   border-radius: 0 5px 5px 0;
-  background-color: var(--cor-0);
+  background: var(--cor-0) url("../../img/dec/bottom-right.svg") no-repeat bottom 20px right 20px;
 }
 
 .contato-dados h2 {
@@ -37,14 +37,14 @@
   margin-bottom: 8px;
 }
 
-.contato-meios a{
+.contato-meios a {
   display: block;
   max-width: max-content;
   margin-bottom: 8px;
   padding-left: 28px;
 }
 
-.contato-meios a:first-child{
+.contato-meios a:first-child {
   background: url("../../img/icones/email.svg") no-repeat 0px 2px;
 }
 
@@ -57,7 +57,7 @@
 }
 
 .contato-meios a:nth-child(3) {
-  background: url("../../img/icones/telefone.svg") no-repeat 0px; 
+  background: url("../../img/icones/telefone.svg") no-repeat 0px;
   margin-bottom: 60px;
 }
 
@@ -78,8 +78,9 @@
     padding: 20px;
   }
 
-  .contato-dados{
+  .contato-dados {
     border-radius: 5px 5px 0 0;
+    background: var(--cor-12);
   }
 
   .contato-formulario {
@@ -90,7 +91,7 @@
   .contato-meios a:nth-child(3) {
     margin-bottom: 32px;
   }
-  
+
   .contato-redes {
     margin-bottom: 12px;
   }
