@@ -17,3 +17,6 @@ Projeto final desenvolvido durante as aulas do curso de HTML e CSS para Iniciant
 ## 🛠 Habilidades utilizadas
 HTML, CSS, Javascript
 
+## Link para acessar o site
+
+[Acessar o site](https://kistgab.github.io/bikcraft/)
