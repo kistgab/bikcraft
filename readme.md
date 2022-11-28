@@ -19,4 +19,4 @@ HTML, CSS, Javascript
 
 ## Link para acessar o site
 
-[Acessar o site](https://kistgab.github.io/bikcraft/)
+[Acessar o site](https://kistgab.github.io/bikcraft/){:target="_blank" rel="noopener"}
