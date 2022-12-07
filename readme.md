@@ -13,6 +13,7 @@ Projeto final desenvolvido durante as aulas do curso de HTML e CSS para Iniciant
  - Responsividade 
  - Pseudo elementos
  - Pseudo classes
+ - Manipulação da DOM
  - Entre outros...
 ## 🛠 Habilidades utilizadas
 HTML, CSS
