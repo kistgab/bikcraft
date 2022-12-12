@@ -16,7 +16,7 @@ Projeto final desenvolvido durante as aulas do curso de HTML e CSS para Iniciant
  - Manipulação da DOM
  - Entre outros...
 ## 🛠 Habilidades utilizadas
-HTML, CSS
+HTML, CSS, JavaScript
 
 ## Link para acessar o site
 
